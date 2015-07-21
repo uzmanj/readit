@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyText
+  by_line: MyText
+  body: MyText
+  likes: 
+  diskikes: 
+
+two:
+  title: MyText
+  by_line: MyText
+  body: MyText
+  likes: 
+  diskikes: 

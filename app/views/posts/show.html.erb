@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @post.title %>
+</p>
+
+<p>
+  <strong>By line:</strong>
+  <%= @post.by_line %>
+</p>
+
+<p>
+  <%= @post.body %>
+</p>
+
+<p>
+  <strong>Likes:</strong>
+  <%= @post.likes %><br>
+  <%= link_to 'Like', like_path %>
+</p>
+
+<p>
+  <strong>Dislikes:</strong>
+  <%= @post.dislikes %><br>
+  <%= link_to 'Dislike', dislike_path %>
+</p>
+
+<%= link_to 'Edit', edit_post_path(@post) %> |
+<%= link_to 'Back', posts_path %>

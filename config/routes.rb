@@ -1,8 +1,11 @@
 Rails.application.routes.draw do
+  resources :posts
   devise_for :users
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
-
+  root "posts#index"
+  get "like/posts/:id" => "posts#like", :as => :like
+  get "dislike/posts/:id" => "posts#dislike", :as => :dislike
   # You can have the root of your site routed with "root"
   # root 'welcome#index'
 

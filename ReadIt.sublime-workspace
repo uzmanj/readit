@@ -1,0 +1,528 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"welcome",
+				"welcome_page"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/jacobuzman/projects/class5_website/sample_app/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1957,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jacobuzman/projects/class5_website/sample_app/Gran Gran.sublime-project",
+			"settings":
+			{
+				"buffer_size": 290,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 419.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jacobuzman/projects/class5_website/sample_app",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/controllers",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views/baked",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views/layouts",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views/welcome",
+		"/Users/jacobuzman/projects/class5_website/sample_app/config"
+	],
+	"file_history":
+	[
+		"/Users/jacobuzman/projects/readit/app/views/posts/_form.html.erb",
+		"/Users/jacobuzman/projects/readit/app/assets/stylesheets/posts.scss",
+		"/Users/jacobuzman/projects/readit/db/migrate/20150716013153_add_default_to_likes_and_dislikes.rb",
+		"/Users/jacobuzman/projects/readit/db/migrate/20150716001047_create_posts.rb",
+		"/Users/jacobuzman/projects/readit/app/views/posts/show.html.erb",
+		"/Users/jacobuzman/projects/readit/Gemfile.lock",
+		"/Users/jacobuzman/projects/readit/config.ru",
+		"/Users/jacobuzman/projects/readit/README.rdoc",
+		"/Users/jacobuzman/projects/readit/Rakefile",
+		"/Users/jacobuzman/projects/readit/app/views/layouts/application.html.erb",
+		"/Users/jacobuzman/projects/readit/Gemfile",
+		"/Users/jacobuzman/projects/readit/config/routes.rb",
+		"/Users/jacobuzman/projects/readit/config/environments/development.rb",
+		"/Users/jacobuzman/projects/readit/app/models/user.rb",
+		"/Users/jacobuzman/projects/readit/app/controllers/application_controller.rb",
+		"/Users/jacobuzman/projects/facebook_page_tracker/config/routes.rb",
+		"/Users/jacobuzman/projects/facebook_page_tracker/app/views/layouts/application.html.erb",
+		"/Users/jacobuzman/projects/facebook_page_tracker/app/controllers/pages_controller.rb",
+		"/Users/jacobuzman/projects/facebook_page_tracker/README.rdoc",
+		"/Users/jacobuzman/projects/facebook_page_tracker/Rakefile",
+		"/Users/jacobuzman/projects/facebook_page_tracker/Gemfile",
+		"/Users/jacobuzman/projects/facebook_page_tracker/config/environments/development.rb",
+		"/Users/jacobuzman/projects/facebook_page_tracker/config.ru",
+		"/Users/jacobuzman/projects/facebook_page_tracker/Gemfile.lock",
+		"/Users/jacobuzman/projects/twitter_clone/app/models/tweet.rb",
+		"/Users/jacobuzman/projects/twitter_clone/app/models/user.rb",
+		"/Users/jacobuzman/projects/twitter_clone/db/migrate/20150618003716_add_user_id_to_tweets.rb",
+		"/Users/jacobuzman/projects/twitter_clone/config/routes.rb",
+		"/Users/jacobuzman/projects/twitter_clone/app/views/layouts/application.html.erb",
+		"/Users/jacobuzman/projects/twitter_clone/Rakefile",
+		"/Users/jacobuzman/projects/twitter_clone/README.rdoc",
+		"/Users/jacobuzman/projects/twitter_clone/config.ru",
+		"/Users/jacobuzman/projects/twitter_clone/Gemfile.lock",
+		"/Users/jacobuzman/projects/twitter_clone/Gemfile",
+		"/Users/jacobuzman/projects/devise_app2/README.rdoc",
+		"/Users/jacobuzman/projects/devise_app2/Rakefile",
+		"/Users/jacobuzman/projects/devise_app2/config.ru",
+		"/Users/jacobuzman/projects/devise_app2/Gemfile.lock",
+		"/Users/jacobuzman/projects/devise_app2/Gemfile",
+		"/Users/jacobuzman/projects/devise_app/app/views/layouts/application.html.erb",
+		"/Users/jacobuzman/projects/devise_app/config/environments/development.rb",
+		"/Users/jacobuzman/projects/devise_app/config/routes.rb",
+		"/Users/jacobuzman/projects/devise_app/README.rdoc",
+		"/Users/jacobuzman/projects/devise_app/Rakefile",
+		"/Users/jacobuzman/projects/devise_app/config.ru",
+		"/Users/jacobuzman/projects/devise_app/Gemfile.lock",
+		"/Users/jacobuzman/projects/devise_app/Gemfile",
+		"/Users/jacobuzman/projects/kitchen_app/app/views/layouts/application.html.erb",
+		"/Users/jacobuzman/projects/kitchen_app/config/routes.rb",
+		"/Users/jacobuzman/projects/kitchen_app/config/environment.rb",
+		"/Users/jacobuzman/projects/kitchen_app/db/migrate/20150616005754_add_expiration_to_ingredient.rb",
+		"/Users/jacobuzman/projects/kitchen_app/db/migrate/20150616005451_add_price_to_ingredient.rb",
+		"/Users/jacobuzman/projects/kitchen_app/db/migrate/20150616005016_add_source_to_ingredient.rb",
+		"/Users/jacobuzman/projects/kitchen_app/db/migrate/20150616004807_add_inventory_to_ingredient.rb",
+		"/Users/jacobuzman/projects/kitchen_app/README.rdoc",
+		"/Users/jacobuzman/projects/kitchen_app/Rakefile",
+		"/Users/jacobuzman/projects/kitchen_app/config.ru",
+		"/Users/jacobuzman/projects/kitchen_app/Gemfile",
+		"/Users/jacobuzman/projects/kitchen_app/Gemfile.lock",
+		"/Users/jacobuzman/projects/twitter_app/app/assets/stylesheets/users.scss",
+		"/Users/jacobuzman/projects/twitter_app/app/views/layouts/application.html.erb",
+		"/Users/jacobuzman/projects/twitter_app/app/assets/stylesheets/application.css",
+		"/Users/jacobuzman/projects/twitter_app/app/views/tweets/_form.html.erb",
+		"/Users/jacobuzman/projects/twitter_app/config/routes.rb",
+		"/Users/jacobuzman/projects/twitter_app/app/controllers/tweets_controller.rb",
+		"/Users/jacobuzman/projects/twitter_app/app/controllers/users_controller.rb",
+		"/Users/jacobuzman/projects/twitter_app/db/schema.rb",
+		"/Users/jacobuzman/projects/twitter_app/app/models/user.rb",
+		"/Users/jacobuzman/projects/twitter_app/app/views/users/show.html.erb",
+		"/Users/jacobuzman/projects/twitter_app/app/views/tweets/home_page.html.erb",
+		"/Users/jacobuzman/projects/twitter_app/db/migrate/20150615003255_add_user_id_to_tweets.rb",
+		"/Users/jacobuzman/projects/twitter_app/app/models/tweet.rb",
+		"/Users/jacobuzman/projects/twitter_app/Gemfile",
+		"/Users/jacobuzman/projects/twitter_app/README.rdoc",
+		"/Users/jacobuzman/projects/twitter_app/Rakefile",
+		"/Users/jacobuzman/projects/twitter_app/config.ru",
+		"/Users/jacobuzman/projects/twitter_app/Gemfile.lock",
+		"/Users/jacobuzman/projects/class8/library/db/schema.rb",
+		"/Users/jacobuzman/projects/class8/library/app/models/user.rb",
+		"/Users/jacobuzman/projects/class8/library/app/models/book.rb",
+		"/Users/jacobuzman/projects/class8/library/app/views/users/show.html.erb",
+		"/Users/jacobuzman/projects/class8/library/app/views/users/index.html.erb",
+		"/Users/jacobuzman/projects/class8/library/db/migrate/20150611011532_add_user_id_to_books.rb",
+		"/Users/jacobuzman/projects/class8/library/db/migrate/20150611004343_add_first_name_last_name.rb",
+		"/Users/jacobuzman/projects/class8/library/db/migrate/20150611002530_add_series_to_books.rb",
+		"/Users/jacobuzman/projects/class8/library/db/migrate/20150611004041_add_isbn.rb",
+		"/Users/jacobuzman/projects/class8/library/README.rdoc",
+		"/Users/jacobuzman/projects/class8/library/Rakefile",
+		"/Users/jacobuzman/projects/class8/library/Gemfile",
+		"/Users/jacobuzman/projects/class8/library/config.ru",
+		"/Users/jacobuzman/projects/class8/library/Gemfile.lock",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/db/migrate/20150609014844_add_color_to_products.rb",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/db/schema.rb",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/app/views/products/index.html.erb",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/app/views/products/show.html.erb",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/app/controllers/products_controller.rb",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/app/views/products/_form.html.erb",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/README.rdoc",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/Rakefile",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/Gemfile",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/config.ru",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/Gemfile.lock",
+		"/Users/jacobuzman/projects/class7_projects/twitter_app/config/routes.rb",
+		"/Users/jacobuzman/projects/class7_projects/twitter_app/db/migrate/20150608232944_create_tweets.rb",
+		"/Users/jacobuzman/projects/class7_projects/twitter_app/db/schema.rb",
+		"/Users/jacobuzman/projects/class7_projects/twitter_app/README.rdoc",
+		"/Users/jacobuzman/projects/class7_projects/twitter_app/Rakefile",
+		"/Users/jacobuzman/projects/class7_projects/twitter_app/Gemfile",
+		"/Users/jacobuzman/projects/class7_projects/twitter_app/config.ru",
+		"/Users/jacobuzman/projects/class7_projects/twitter_app/Gemfile.lock",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views/welcome/about_us.html.erb",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views/baked/brownie_page.html.erb",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views/baked/cookie_page.html.erb",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views/welcome/home_page.html.erb",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/controllers/baked_controller.rb",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views/welcome/welcome_page.html.erb",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/controllers/application_controller.rb",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views/Baked/brownie_page.html.erb",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/mailers/.keep",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views/welcome/cookie_page.html.erb"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/jacobuzman/projects/class5_website/sample_app/config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1957,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/jacobuzman/projects/class5_website/sample_app/Gran Gran.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ReadIt.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"default",
+				"db/migrate/20150716013153_add_default_to_likes_and_dislikes.rb"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"postcontr",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"devel",
+				"config/environments/development.rb"
+			],
+			[
+				"",
+				"app/models/post.rb"
+			],
+			[
+				"applic",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"develo",
+				"config/environments/development.rb"
+			],
+			[
+				"page",
+				"app/models/page.rb"
+			],
+			[
+				"develop",
+				"config/environments/development.rb"
+			],
+			[
+				"index",
+				"app/views/links/index.html.erb"
+			],
+			[
+				"control",
+				"app/controllers/links_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"addus",
+				"db/migrate/20150618003716_add_user_id_to_tweets.rb"
+			],
+			[
+				"layout",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"environ",
+				"config/environment.rb"
+			],
+			[
+				"styles",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"addexpi",
+				"db/migrate/20150616005754_add_expiration_to_ingredient.rb"
+			],
+			[
+				"adde",
+				"db/migrate/20150616005754_add_expiration_to_ingredient.rb"
+			],
+			[
+				"addpric",
+				"db/migrate/20150616005451_add_price_to_ingredient.rb"
+			],
+			[
+				"addsour",
+				"db/migrate/20150616005016_add_source_to_ingredient.rb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"add",
+				"db/migrate/20150616004807_add_inventory_to_ingredient.rb"
+			],
+			[
+				"book",
+				"app/models/book.rb"
+			],
+			[
+				"application.css",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"brow",
+				"app/views/baked/brownie_page.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
