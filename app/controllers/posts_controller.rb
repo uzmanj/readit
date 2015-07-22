@@ -62,14 +62,9 @@ class PostsController < ApplicationController
   end
 
   def like
-    if @post.users_like.include?(@user)
-      redirect_to @post
-    else
       @post.likes = @post.likes+1 
       @post.save
       redirect_to @post
-      @post.users_who_like.push(@user)
-    end
   end
 
   def dislike
@@ -90,6 +85,6 @@ class PostsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def post_params
-      params.require(:post).permit(:title, :by_line, :body)
+      params.require(:post).permit(:title, :by_line, :body, :tag_list)
     end
 end
